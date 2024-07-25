@@ -1,7 +1,5 @@
 import React from 'react'
 import"./EducationContainer.css"
-import EducationBox from './EducationBox'
-
 import{educationBox} from "./EducationBox"
 import { Element } from 'react-scroll'
 
