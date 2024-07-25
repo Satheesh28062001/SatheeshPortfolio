@@ -1,6 +1,5 @@
 import React from 'react'
 import { Element } from 'react-scroll'
-import Header from '../Header/Header'
 import "./about.css"
 import TopContent from '../TopContent/TopContent'
 
