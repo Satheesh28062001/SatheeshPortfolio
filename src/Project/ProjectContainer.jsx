@@ -7,7 +7,7 @@ const ProjectContainer = ({img,title,desc,link}) => {
   return (
    <>
  
-   <a href="">
+   <a href="-">
     <div className='projects' onMouseEnter={()=>setShow(true)} onMouseLeave={()=>setShow(false)}>
     {show?(
      <div className='project__content'>
@@ -19,7 +19,7 @@ const ProjectContainer = ({img,title,desc,link}) => {
 
 
 
-    ):(<img src={img}/>)}
+    ):(<img src={img} alt="something went wrong../"/>)}
 
     </div>
 
