@@ -1,0 +1,80 @@
+
+.skillcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 200px 0px;
+    
+
+}
+.skillcontainer__text{
+    color: white;
+    flex: 0.6;
+    text-align: left;
+    max-width: 500px;
+    margin-bottom: 20px;
+
+}
+.skillcontainer__text h2{
+    font-size: 30px;
+}
+.skillcontainer__image{
+    flex: 0.4;
+    text-align: center;
+    margin-right: 100px;
+}
+.skillcontainer .skillcontainer__image img{
+   width:  60vh;
+   margin-top: 100px;
+    border-radius: 3px;
+    object-fit: contain;
+    
+}
+.skillcontainer>h5{
+    font-family: "Montserrat",sans-serif;
+}
+.skillcontainer__slider>.MuiLinearProgress-colorPrimary{
+    background-color: rgb(88, 88, 88);
+}
+.skillcontainer-slider1>span>.MuiLinearProgress-barColorPrimary
+{
+    background-color: tomato;
+}
+.skillcontainer-slider2>span>.MuiLinearProgress-barColorPrimary
+{
+    background-color: red;
+}
+.skillcontainer-slider3>span>.MuiLinearProgress-barColorPrimary
+{
+    background-color: rgb(220, 196, 35);
+}
+.skillcontainer-slider4>span>.MuiLinearProgress-barColorPrimary
+{
+    background-color: rgb(83, 89, 15);
+}
+.skillcontainer-slider5>span>.MuiLinearProgress-barColorPrimary
+{
+    background-color: rgb(161, 53, 34);
+}
+.skillcontainer-slider6>span>.MuiLinearProgress-barColorPrimary
+{
+    background-color: rgb(18, 210, 98);
+}
+.skillcontainer-slider7>span>.MuiLinearProgress-barColorPrimary
+{
+    background-color: rgb(24, 116, 146);
+}
+.skillcontainer-slider8>span>.MuiLinearProgress-barColorPrimary
+{
+    background-color: rgb(173, 54, 209);
+}
+.skillcontainer-slider9>span>.MuiLinearProgress-barColorPrimary
+{
+    background-color: rgb(243, 255, 71);
+}
+
+.skillcontainer-slider10>span>.MuiLinearProgress-barColorPrimary
+{
+    background-color: rgb(36, 204, 131);
+}
+

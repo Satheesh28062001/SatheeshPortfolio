@@ -1,0 +1,35 @@
+.educationcontainer h1{
+    color: white;
+    text-align: center;
+   
+    
+   
+    padding-top: 100px;
+    
+}
+
+.educationcontainer h1 span{
+    color: red;
+}
+.educationcontainer table{
+    margin: auto;
+    margin-top: 100px;
+    
+
+    
+
+}
+.educationcontainer table th{
+    color: aqua;
+    padding: 10px;
+}
+.educationcontainer table td{
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+.educationcontainer table td:hover{
+    cursor: pointer;
+    color: red;
+
+}

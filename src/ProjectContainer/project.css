@@ -1,0 +1,36 @@
+.projectcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    margin: 100px 0px;
+    
+  
+}
+.projectcontainer>h1{
+    padding-bottom: 15px;
+    margin-top: 110px;
+}
+.projectcontainer>p{
+    padding-bottom: 20px;
+}
+.projectcontainer .projectcontainer__projects{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:60vw;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    
+   
+}
+.projectcontainer .prolink{
+    font-size: 17px;
+    color: blue;
+    
+
+}
+.projectcontainer .prolink:hover{
+    color: red;
+}
